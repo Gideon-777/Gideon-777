@@ -1,7 +1,7 @@
 <!-- Banner or greeting -->
 <h1 align="center">Hi there, I'm Gideon 👋</h1>
 <p align="center">
-  <em>Senior AI Engineer & Data Scientist • PhD Researcher</em>
+  <em>Senior AI Engineer & Data Scientist • Researcher</em>
 </p>
 
 <!-- Short summary / profile section -->
