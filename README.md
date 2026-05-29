@@ -1,42 +1,199 @@
-<!-- Banner or greeting -->
-<h1 align="center">Hi there, I'm Gideon 👋</h1>
+# Hi there, I'm Gideon 👋
+
 <p align="center">
-  <em>Senior AI Engineer & Data Scientist • Researcher</em>
+  <em>Head of AI Engineering • Agentic AI • Real-Time Voice AI • Multi-Agent Systems • PhD in Artificial Intelligence</em>
 </p>
 
-<!-- Short summary / profile section -->
 <p align="center">
-  As a <strong>PhD</strong> holder in <strong>Artificial Intelligence</strong> with <strong>7+ years</strong> of experience, I specialize in end-to-end AI-based solutions using <strong>Generative AI, Data Science, Big Data Analysis, Machine Learning, and Deep Learning</strong>. 
-  <br><br>
-  I’m driven by the challenge of creating innovative products that harness data to make smarter decisions and solve complex problems. 
-  With a strong work ethic and an enduring passion for AI, I'm confident in my ability to make meaningful contributions to any team.
+  <a href="mailto:mengaraaxel@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/phd-gedeon/?locale=en-US">LinkedIn</a> •
+  <a href="https://github.com/Gideon-777">GitHub</a>
 </p>
 
 ---
 
-## 🛠️ Skills & Expertise
+## 🚀 About Me
 
-- **Artificial Intelligence** | **Machine Learning** | **Deep Learning**  
-- **Generative AI** | **Data Science** | **MLOps** | **Natural Language Processing**  
-- **Computer Vision** | **Scientific Research** | **Mathematics**  
-- **DevOps** | **Python** | **SQL** | **Full Stack Development**
+I am a **Head of AI Engineering** and **PhD holder in Artificial Intelligence** with **8+ years of experience** building production-grade AI systems across healthcare, industrial automation, cybersecurity, and enterprise software.
+
+My expertise spans the full AI lifecycle—from research and experimentation to large-scale deployment—specializing in:
+
+* 🤖 Agentic AI Systems
+* 🎙️ Real-Time Voice AI
+* 🧠 Large Language Models (LLMs)
+* 🔄 Multi-Agent Orchestration
+* ⚡ Autonomous AI Workflows
+* 🎯 Reinforcement Learning
+* 🔬 Applied AI Research
+* 🚀 AI Product Development
+
+I enjoy transforming cutting-edge AI research into scalable products that solve meaningful business problems and create measurable impact.
 
 ---
 
-## 🌱 What I’m Up To
-- **Currently** refining LLM optimization strategies at [Turing - GenAI].
-- Exploring cutting-edge **Generative AI** methods for real-world applications.
-- Writing research papers on **Deep Learning** and **NLP**.
+## 💼 Current Roles
+
+### Head of AI Engineering — KindredPM
+
+Leading the development of a production-grade **Agentic AI Platform** that autonomously handles property management operations across multiple communication channels.
+
+Key areas:
+
+* Multi-Agent Systems
+* AI Receptionist Agents
+* Maintenance Agents
+* Leasing Agents
+* Real-Time Voice Agents
+* SMS Agents
+* Email Agents
+* Telephony Integrations
+* Autonomous Workflow Execution
+* Multi-Property Routing
+* Agent Evaluation Frameworks
+
+### Lecturer — Pusan National University
+
+Teaching Computer Science and Artificial Intelligence courses while mentoring future engineers.
+
+### Research Affiliate — Sejong University
+
+Conducting research in:
+
+* Multimodal Emotion Recognition
+* Uncertainty-Aware AI
+* Deep Learning
+* Human-Centered AI
 
 ---
 
-## 🤝 Let’s Connect!
-- **Email**: [Send Email](mailto:mengaraaxel@gmail.com)  
+## 🛠️ Core Expertise
+
+### Agentic AI & Autonomous Systems
+
+* Multi-Agent Architectures
+* Agent Orchestration
+* Autonomous Workflows
+* Function Calling & Tool Use
+* RAG Pipelines
+* Prompt Engineering
+* LLM Evaluation & Fine-Tuning
+* Deterministic Agent Execution
+* AI Reasoning Systems
+* Agent Memory & Context Management
+
+### Real-Time Voice AI
+
+* Real-Time Voice Agents
+* Conversational AI
+* Speech-to-Speech Systems
+* Telephony AI Platforms
+* Voice Agent Orchestration
+* Voice + SMS Omnichannel Systems
+* SIP Integrations
+* Telnyx Integrations
+* Live Call Routing & Transfers
+* AI Receptionists
+* Call Analytics & Monitoring
+* Low-Latency AI Infrastructure
+
+
+### Artificial Intelligence
+
+* Machine Learning
+* Deep Learning
+* Reinforcement Learning
+* Computer Vision
+* Natural Language Processing
+* Multimodal Learning
+* Explainable AI (XAI)
+* Uncertainty-Aware AI
+* AI Safety
+
+### Engineering & MLOps
+
+* Python
+* FastAPI
+* Flask
+* React
+* MongoDB
+* PostgreSQL
+* Redis
+* Docker
+* Kubernetes
+* AWS
+* Azure
+* CI/CD
+
+
+---
+
+## 🏆 Selected Achievements
+
+* 🎓 Earned a PhD in Artificial Intelligence with research focused on uncertainty-aware deep learning systems.
+* 🚀 Built and deployed production AI platforms serving real-world users.
+* 🧠 Collaborated with organizations such as Google, Meta, xAI, and Character AI on LLM evaluation and optimization initiatives.
+* 🏥 Developed advanced AI systems for medical imaging and healthcare applications.
+* 🎯 Designed industrial reinforcement learning systems for real-time process optimization.
+* 📈 Improved medical image segmentation performance from 78% to 96% in production environments.
+* 🤖 Architected large-scale multi-agent systems operating across voice, SMS, and email channels.
+* 📜 Inventor of the patent-pending **Self-Enforcing Tool Prerequisite Pipeline (SETPP)** for deterministic agent execution.
+
+---
+
+## 🔬 Research Interests
+
+* Agentic AI
+* Multi-Agent Systems
+* Large Language Models
+* Multimodal AI
+* AI for Cybersecurity
+
+---
+
+## 📚 Publications
+
+Selected publications include work published in:
+
+* IEEE Transactions on Affective Computing
+* IEEE Internet of Things Journal
+
+Research topics include:
+
+* Multimodal Emotion Recognition
+* AI for Cybersecurity
+* Uncertainty-Aware Deep Learning
+* Graph Neural Networks
+* Mixture-of-Experts Architectures
+
+---
+
+## 🌱 Current Focus
+
+Currently building:
+
+* Production Agentic AI Platforms
+* Real-Time Voice AI Systems
+* Multi-Agent Orchestration Frameworks
+* Autonomous Business Process Agents
+* Next-Generation AI Infrastructure
+* Enterprise LLM Applications
+
+---
+
+## 🌍 Languages
+
+* 🇫🇷 French (Native)
+* 🇬🇧 English (Fluent)
+* 🇰🇷 Korean (Fluent)
+
+---
+
+## 📫 Let's Connect
+
+* 📧 Email: **[mengaraaxel@gmail.com](mailto:mengaraaxel@gmail.com)**
 
 ---
 
 <p align="center">
-  <em>“The goal is to turn data into information, and information into insight.”</em>
-  <br>
-  — Carly Fiorina
+  <i>"Building intelligent systems that reason, act, and collaborate."</i>
 </p>
